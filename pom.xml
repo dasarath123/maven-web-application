@@ -97,7 +97,7 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Dasarath Releases Nexus Repository</name>
+	      <name>Mithun Technologies Nexus Repository</name>
 	      <url>http://54.82.32.229:8081/repository/facebook-release/</url>
 	    </repository>
 	    
