@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to New Technologies. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Dasarath- Very Good Trainer for DevOps with AWS at kondapur hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to New Technologies. Hyderabad, Telangana, India </h1>
+<h1 align="center"> Dasarath - Very Good Trainer for DevOps with AWS at kondapur hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
